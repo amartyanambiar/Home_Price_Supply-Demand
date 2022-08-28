@@ -23,3 +23,9 @@ st.markdown('Build a model using publicly available data for key supply-demand f
 
 st.markdown('### The Data')
 st.write(df)
+
+
+st.markdown('Links to the Jupyter Notebooks & Data :')
+st.write("Data Building : [link](https://github.com/amartyanambiar/Hoom/blob/master/combine_data.ipynb)")
+st.write("Model Building : [link](https://github.com/amartyanambiar/Hoom/blob/master/predict_price.ipynb)")
+st.write("Datasets (csv & xlsx) : [link](https://github.com/amartyanambiar/Hoom/tree/master/data)")

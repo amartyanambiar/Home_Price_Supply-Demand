@@ -15,8 +15,10 @@ with col2:
 
 
 st.markdown('### Conclusion')
-st.markdown('Build a model using publicly available data for key supply-demand factors that could influence US home prices. Use that to explain how these factors impacted home prices over the last ~20 years. ')
+st.markdown('In the task assigned, I had to build a model using publicly available data for key supply-demand factors that could influence US home prices. This involved collecting data from various sources and combining them into a single dataframe. The data was then cleaned and prepared for model building. The model was then built using the data and we calculated the r2 score of the model which was in the range of 0.7 - 1. I also used Streamlit to create a web application that would allow the user to input the features they wanted. Visualizations were created using Plotly Express, Seaborn and it is incorporated into the application.')
+
 st.markdown("""---""")
+
 st.markdown('### References')
 st.write("[Scikit-Learn Docs](https://scikit-learn.org/stable/index.html)")
 st.write("[Streamlit Docs](https://docs.streamlit.io)")
