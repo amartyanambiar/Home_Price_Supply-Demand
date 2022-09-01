@@ -14,7 +14,7 @@ with col1:
     st.image('public/logo.png', width=100)
 with col2:
     st.markdown("""---""")
-    st.markdown('### Technical Assessment - Amartya Nambiar')
+    st.markdown('###  Home Price Prediction')
 
 
 st.markdown('### Problem Statement')
